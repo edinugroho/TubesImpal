@@ -4,9 +4,7 @@ Tujuan utama dalam pembuatan website ini adalah untuk mempermudah bertemunya par
 
 Tugas ini Dibuat oleh : 
 
-	Nama	 | 		NIM
------------- | -------------
-Edi Dwi Nugroho | 1301174409
-Irfan Dwi Wijaya | 1301174336
-Abdul Rahim | 1301174016
-Aghfa Irawan | 1301174509
+* Edi Dwi Nugroho 1301174409
+* Irfan Dwi Wijaya 1301174336
+* Abdul Rahim 1301174016
+* Aghfa Irawan 1301174509
